@@ -5,7 +5,7 @@
   
   -Finalmente, se realiza un dashboard con los datos recopilados utilizando Google Data Studio.
  
- [Dashboard Link](https://ejemplo.com/ "https://datastudio.google.com/reporting/4e861af7-027f-4c0c-aebb-86451125719e").
+ [Dashboard Link](https://datastudio.google.com/reporting/4e861af7-027f-4c0c-aebb-86451125719e).
  ![Esta es una imagen de ejemplo](https://static.platzi.com/media/user_upload/Mercado_Notebooks_Chile-1-d581f717-54ef-4649-8c45-c85b99f919cc.jpg)
 
 # Estado actual
