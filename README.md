@@ -9,5 +9,5 @@
  ![Esta es una imagen de ejemplo](https://static.platzi.com/media/user_upload/Mercado_Notebooks_Chile-1-d581f717-54ef-4649-8c45-c85b99f919cc.jpg)
 
 # Estado actual
-De momento el proyecto presenta datos estáticos del día en que se ejecute el scraper, en futuras versiones se buscará almacenar datos diarios para generar un dashboard con las variaciones de precios a través del tiempo.
+De momento el proyecto presenta datos estáticos del día en que se ejecute el scraper.
 
